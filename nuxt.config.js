@@ -93,7 +93,8 @@ export default {
   axios: {
     // baseURL: "https://nk-studio-api.herokuapp.com/api/v1",
     // baseURL: "https://nk-studio-api.herokuapp.com/api/v1"
-    // baseURL: "http://127.0.0.1:8000/api/v1"
+    // baseURL: "http://localhost:3000/api/",
+    baseURL: "http://localhost:3000/api/",
   },
   cloudinary: {
     cloudName: "iwacu-heza",

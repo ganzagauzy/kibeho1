@@ -75,7 +75,7 @@
           this.$auth.loginWith('local', {
             data: this.user,
           }).then(res => {
-            this.$router.push('/admin/blogs')
+            this.$router.push('/admin/events1')
             this.logging =false
             this.$bvToast.toast('You Logged in Successfully', {
               title: `Logged In!`,

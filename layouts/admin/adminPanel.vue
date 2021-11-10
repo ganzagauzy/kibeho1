@@ -25,7 +25,7 @@
               <div class="v-list-item__subtitle"></div>
             </div>
           </nuxt-link>
-          <nuxt-link to="/admin/blogs"
+          <nuxt-link to="/admin/events1"
              class="white--text text-deco-none v-list-item v-list-item--link theme--dark" tabindex="0">
             <div class="v-list-item__icon"><i aria-hidden="true"
                                               class="v-icon notranslate mdi mdi-clipboard-outline theme--dark"></i>
@@ -35,7 +35,7 @@
               <div class="v-list-item__subtitle"></div>
             </div>
           </nuxt-link>
-          <nuxt-link to="/admin/articles"
+          <nuxt-link to="/admin/events2"
              class="white--text text-deco-none v-list-item v-list-item--link theme--dark" tabindex="0">
             <div class="v-list-item__icon"><i aria-hidden="true"
                                               class="v-icon notranslate mdi mdi-clipboard-outline theme--dark"></i>
